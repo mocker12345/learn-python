@@ -1,0 +1,970 @@
+title:Flume 概述
+content:			本课程主要是带领大家认识 Flume，了解 Flume 是什么、Flume 能干什么以及 Flume 的发展历史，最后能够在 Linux 或者类 Unix 环境下通过正确的修改配置文件进行 Flume 的安装。
+	
+classtime:3课时
+							35分钟
+classlevel:初级
+learnnum:2065人学习
+
+title:Ext JS 核心概念
+content:			本课程将为大家讲解在进行 Ext JS 开发前，需要学习了解的几个核心概念。在开始学习阶段需要先做到心中有理解，在后续的学习中，再进行详细的理解与实践。
+	
+classtime:5课时
+							53分钟
+classlevel:初级
+learnnum:2067人学习
+
+title:发布 Web 应用及补充知识
+content:			本课程主要介绍如何将 Web 应用发布到互联网上，供更多用户访问。并介绍如何使用一些Python Web 方面的补充知识，包括蓝图、RESTful API、数据库迁移。
+	
+classtime:4课时
+							43分钟
+classlevel:中级
+learnnum:2096人学习
+
+title:回溯算法的应用
+content:			本课程介绍回溯算法，涉及到在一个序列中查找符合需求的组合、求解正确的括号组合方式以及九宫格键盘中字符和数字转化的组合方式。
+	
+classtime:3课时
+							27分钟
+classlevel:高级
+learnnum:2122人学习
+
+title:Transition 动画入门到精通
+content:			本课程先介绍 Transition 动画的概念和原理，然后以效果和项目例子代码的方式讲解 Transition 动画的使用。
+	
+classtime:4课时
+							79分钟
+classlevel:初级
+learnnum:2271人学习
+
+title:Python 类初步
+content:			本课时主要是对类有一个初步的了解，并能够使用简单的方法编写类，主要内容包括：相关基本概念，类的编写方法，实例化和实例属性。
+	
+classtime:3课时
+							39分钟
+classlevel:初级
+learnnum:2325人学习
+
+title:使用 jQuery 实现多种类型的导航条（下）
+content:			本课程主要通过 jQuery 和 CSS3 进行实际应用，在上篇主要讲的是最常规的导航条样式，下篇主要讲解折叠菜单的两种方式，学习完这个课程可以轻松的应用 jQuery 和 CSS3 的各种交互特效，以及实现菜单的水平和垂直展开方式。
+	
+classtime:3课时
+							93分钟
+classlevel:中级
+learnnum:2326人学习
+
+title:Android Studio 全方位指南之协作开发指南
+content:			本课程主要讲解如何使用 Android Studio 进行日常协作开发的操作，包含 svn 及 git 组件的使用指南。
+	
+classtime:5课时
+							39分钟
+classlevel:初级
+learnnum:2366人学习
+
+title:云计算的组成
+content:			本课程将带大家了解云计算的服务在 Iaas、Paas、Saas 三层的不同组成以及一些基本概念。这些基础概念将为下一节的实践课程进行基础知识的普及。
+	
+classtime:4课时
+							22分钟
+classlevel:初级
+learnnum:2357人学习
+
+title:在云上搭建自己的 Disuz 论坛
+content:			本课程将带大家手把手的在一个小时内搭建出自己的 Disuz 论坛，也借此悉熟云计算服务中云服务器、云数据库等服务的具体使用，了解镜像的概念与使用。
+	
+classtime:4课时
+							19分钟
+classlevel:初级
+learnnum:2516人学习
+
+title:一分钟了解云计算
+content:			本课程将带大家了解云计算的基本概念、应用场景与发展趋势。
+	
+classtime:5课时
+							19分钟
+classlevel:初级
+learnnum:2472人学习
+
+title:Hadoop 管理与调优
+content:			本课程主要介绍 Hadoop 整合 Hue、Hadoop 数据添加 LZO 压缩调优，同时也会讲解 Hadoop 升级原理并进行升级演示。
+	
+classtime:4课时
+							59分钟
+classlevel:高级
+learnnum:2139人学习
+
+title:iOS 界面动画教程之自动布局
+content:			本课程主要围绕自动布局（Auto Layout）的概念，由浅入深讲解自动布局的工作原理，以及如何创建、编辑和删除约束。Auto Layout的核心是：基于UI 元素之间的相互关系来定义它们之间的布局。
+	
+classtime:3课时
+							53分钟
+classlevel:初级
+learnnum:2318人学习
+
+title:微信公众平台开发实战：微信绑定功能
+content:			本课程学习微信公众平台绑定功能，分别介绍并实例讲解网站老用户的绑定以及手机号码绑定两种类型，同时也更加深入学习对MySQL数据库的操作。
+	
+classtime:3课时
+							90分钟
+classlevel:高级
+learnnum:2290人学习
+
+title:绘制专业的产品原型应用示例：猿题库 App 产品原型设计
+content:			本课程通过猿题库产品原型设计，来讲解如何绘制专业的产品原型设计，如何绘制好专业的产品原型，如何写好产品原型的交互说明，介绍一些绘制原型的注意事项。
+	
+classtime:5课时
+							121分钟
+classlevel:高级
+learnnum:2779人学习
+
+title:组合算法的实现和应用
+content:			本课程介绍和组合算法相关的知识，涉及组合算法的经典实现过程和组合算法的应用。
+	
+classtime:3课时
+							23分钟
+classlevel:高级
+learnnum:2453人学习
+
+title:Meteor RESTful 详解
+content:			本课程介绍了 RESTful 的相关概念和其在 Meteor 中的应用，演示了如何在 Meteor 中调用外部 REST 服务，如何使用 Meteor 创建 REST 服务接口。最后介绍了 Meteor 特有的 REST WebSocket，也就是 DDP (分布式数据协议)。
+	
+classtime:4课时
+							37分钟
+classlevel:初级
+learnnum:2217人学习
+
+title:企业 Web 网站设计实例
+content:			本课程主要通过演示企业 Web 网站设计实例，帮助学员了解网站设计原理、熟悉网站的布局、图片设计以及界面设计流程，并了解交互效果设计。
+	
+classtime:5课时
+							73分钟
+classlevel:初级
+learnnum:3364人学习
+
+title:编写图形界面的远程控制程序
+content:			本课程讲解使用 Python 制作图形界面的远程控制软件。实现远程控制软件的基本功能，并使用Socket 通信来连接客服的和服务器端。
+	
+classtime:4课时
+							56分钟
+classlevel:中级
+learnnum:2863人学习
+
+title:排列算法的实现和应用
+content:			本课程介绍排列算法的实现和应用。具体包括利用递归方法求解序列的全排列和利用非递归方法求解序列的全排序，最后讲解如何使用排列思想解决八皇后问题。
+	
+classtime:3课时
+							31分钟
+classlevel:高级
+learnnum:2175人学习
+
+title:iOS 界面动画教程之与视图相关的动画
+content:			本课程讲解如何利用 UIKit 框架所提供的动画 API 创建基于视图的动画。这些 API 专门用来帮助开发者以最简单的方式创建动画，从而避免了复杂的 Core Animation 的操作。UIKit 框架的 API 虽然简单，但是却不失灵活、强大的功能，我们几乎可以通过它完成大部分有趣、优雅的动画创建。
+	
+classtime:5课时
+							98分钟
+classlevel:初级
+learnnum:2510人学习
+
+title:二叉树的高级处理
+content:			本课程介绍处理二叉树的算法。涉及求任意两个节点的最远距离、求两个节点的最低公共父节点和字典树的基本操作。
+	
+classtime:3课时
+							50分钟
+classlevel:中级
+learnnum:2148人学习
+
+title:Microsoft SQL Server 数据库的索引运算分析
+content:			本课程讲解数据库动态索引应用的底层原理以及大数据表的查询技巧，介绍如何通过索引进行查询的性能优化，通过本课程的学习，让大家掌握如何建立有效索引、管理索引，从而能够胜任复杂环境下的性能调优工作。
+	
+classtime:4课时
+							40分钟
+classlevel:中级
+learnnum:2178人学习
+
+title:Python 函数
+content:			本课时主要介绍 Python 函数的建立、调用，包括建立函数的方法，函数的参数，使用特殊函数，并在上述知识的基础上，带领学习者通过练习来熟悉函数的应用。
+	
+classtime:3课时
+							51分钟
+classlevel:初级
+learnnum:2352人学习
+
+title:二叉树的转化和求解
+content:			本课程介绍在二叉树上的初级操作，涉及二叉树转化为双向链表、单链表转化为 BST、查找根到叶子节点的固定路径值以及判断序列是否为二叉搜索树的后序遍历序列。
+	
+classtime:4课时
+							55分钟
+classlevel:中级
+learnnum:2138人学习
+
+title:适配所有机型的桌面布局
+content:			本课程主要讲配所有机型的桌面布局，将重要、常用的应用快捷方式放到显眼的位置，甚至可以添加自己写的广告快捷方式。主要设置首页、 Hotseat 的桌面布局。通过本课程可以学到 queryIntent 等重要方法。
+	
+classtime:5课时
+							66分钟
+classlevel:初级
+learnnum:3594人学习
+
+title:Spring 的配置文件浅析
+content:			本课程主要介绍了 Spring 配置文件的相关信息，由于涉及的信息比较多，所以将分为上下两部分向大家讲解，第一部分将通过一些简单的示例带领大家一起认识一下 Spring 的配置文件，主要介绍了 Spring 的命名，实例化，作用域以及多配置文件整合的相关知识；接下来的第二部分，将会更加深入的向大家介绍配置文件，包括依赖注入，参数详解以及其他配置相关知识。通过由浅入深的讲解步骤，大家可以掌握如何编写简单的 Spring 的配置文件。
+	
+classtime:5课时
+							76分钟
+classlevel:初级
+learnnum:6674人学习
+
+title:Laravel 入门之 Laravel 初探
+content:			本课程主要通过对一个 Laravel 官方的例子的解析，对 Laravel 的整体结构和各个部分有个简单的了解，便于进行下一阶段的学习。
+	
+classtime:4课时
+							62分钟
+classlevel:中级
+learnnum:2346人学习
+
+title:Cocos2d-x 引擎源码中的 OpenGL ES知识（中）
+content:			本课程为 OpenGL ES 课程的中间部分，将详细介绍 OpenGL ES 中的重要模块 shader 的编程语言 GLSL ，使用 GLSL 语言编写的 shader 将被用于计算每一帧绘制图片的顶点位置信息和颜色信息等。
+	
+classtime:3课时
+							104分钟
+classlevel:高级
+learnnum:2120人学习
+
+title:二叉树的基本操作
+content:			本课程介绍和二叉树相关的算法，涉及二叉树的递归遍历、非递归遍历、二叉搜索树和有序数组的转化以及二叉搜索树的增删改查操作。
+	
+classtime:4课时
+							80分钟
+classlevel:中级
+learnnum:2211人学习
+
+title:哈希表的应用
+content:			本课程介绍的算法都会应用到哈希表，着重介绍哈希表这种数据结构在算法中的应用。
+	
+classtime:3课时
+							26分钟
+classlevel:中级
+learnnum:2803人学习
+
+title:配置器详解
+content:			本课程主要讲解不同的配置器的表达式、效果及其使用方法。
+	
+classtime:7课时
+							53分钟
+classlevel:中级
+learnnum:2488人学习
+
+title:DB2 数据的导入与导出
+content:			本课程主要介绍如何实现 DB2 中数据的批量导入和导出操作。主要是 DB2 export 和 import 工具的使用。
+	
+classtime:3课时
+							26分钟
+classlevel:中级
+learnnum:2133人学习
+
+title:绘制专业的产品原型
+content:			本课程讲解如何绘制专业的产品原型，专业的产品原型里应该包含修改日志、版本说明、产品结构图、产品流程图、交互说明这些元素，学会如何绘制修改日志、版本说明的表格，学会如何利用 MindManager 工具绘制产品结构图，以及如何绘制产品的流程图。
+	
+classtime:4课时
+							44分钟
+classlevel:高级
+learnnum:3083人学习
+
+title:Windows 10 应用开发之数据绑定（下）
+content:			上一个课程已向学员介绍了列表控件、Binding的使用，以及数据值转换器的实现，本课程将继续介绍数据绑定相关的内容。包括实现属性更改通知、数据的视图和模板管理，以及 x:Bind 与 x:Phase 扩展标记的使用。
+	
+classtime:4课时
+							54分钟
+classlevel:初级
+learnnum:2168人学习
+
+title:FileMaker 14 高级教学（九）部署
+content:			本章主要回顾了在 FileMaker 的解决方案中提供的几类部署的方式，学习怎样安装，配置、维护和备份FileMaker服务器。进而学习怎样利用脚本和命令行操作 FileMaker 服务器以及怎样使用Webdirect 来部署。
+	
+classtime:5课时
+							60分钟
+classlevel:初级
+learnnum:2365人学习
+
+title:栈相关算法
+content:			本课程介绍和栈相关的算法，重点分析栈这种数据结构的特性和它在解决问题时的使用方法。
+	
+classtime:4课时
+							46分钟
+classlevel:中级
+learnnum:2239人学习
+
+title:DB2 SQL 快速入门
+content:			本课程主要介绍如何使用 SQL 语句在 DB2 中操作数据，包括查询、更新、插入和删除操作。
+	
+classtime:3课时
+							20分钟
+classlevel:初级
+learnnum:2441人学习
+
+title:适配器（二）
+content:			本课程主要讲解八种仿函数适配器的基础知识及其使用方法。
+	
+classtime:4课时
+							52分钟
+classlevel:中级
+learnnum:2126人学习
+
+title:Struts 2 类型转换器
+content:			本课程讲解了两种 Struts 2 类型转换器的使用方式，帮助我们在提交复杂类型数据的时候，进行自动类型转换。
+	
+classtime:3课时
+							39分钟
+classlevel:高级
+learnnum:2129人学习
+
+title:C 语言编程实战：学生信息管理系统（上）
+content:			学生信息管理系统是针对学校人事处的大量业务处理工作而开发的管理软件，主要用于学校学生信息管理，总体任务是实现学生信息的系统化、科学化、规范化和自动化，其主要任务是用计算机对学生的各种信息进行日常管理。该项目分为两次课程讲解。本次课程对项目进行需求分析和系统设计，在此基础上进行主函数设计以及插入学生信息模块的设计。
+	
+classtime:4课时
+							55分钟
+classlevel:中级
+learnnum:3277人学习
+
+title:Android pm 命令使用
+content:			本课详细介绍什么是 pm 命令和 pm 命令的子命令与参数的详解。pm 工具为包管理 (package manager ) 的简称。 pm 工具用来执行应用的安装和查询应用包的信息、系统权限、控制应用是 Android 开发与测试过程中必不可少的工具。
+
+	
+classtime:5课时
+							59分钟
+classlevel:初级
+learnnum:2455人学习
+
+title:DB2 中的对象视图、索引和触发器
+content:			本课程主要介绍 DB2 数据库中的三种数据对象：视图、索引和触发器。包括这三种对象的作用，以及如何针对这三种对象进行创建和管理等操作。
+	
+classtime:3课时
+							36分钟
+classlevel:初级
+learnnum:2149人学习
+
+title:Hadoop CDH5 集群管理
+content:			本课程主要介绍 Hadoop 各大主流发行版本，并使用 Cloudera Manager5 来管理 Hadoop 集群。
+	
+classtime:2课时
+							40分钟
+classlevel:高级
+learnnum:2330人学习
+
+title:链表的排序
+content:			本课程介绍和单链表中排序相关的算法。包括单链表节点的交叉重排、单链表的分割、单链表的合并和排序。
+	
+classtime:4课时
+							33分钟
+classlevel:中级
+learnnum:2117人学习
+
+title:链表的初级处理
+content:			本课程讲述针对单链表的相关处理，包括约瑟夫环问题、链表中不同需求的翻转和链表中删除重复元素的方法。
+	
+classtime:4课时
+							30分钟
+classlevel:中级
+learnnum:2199人学习
+
+title:Photoshop 图层样式快速学
+content:			本课程主要学习 GUI 设计常用的 Photoshop 图层样式效果：描边、内阴影、投影、外发光、内发光、渐变叠加。通过 Button 设计实例帮助学员进一步了解图层样式的运用。
+	
+classtime:3课时
+							44分钟
+classlevel:初级
+learnnum:3274人学习
+
+title:适配器（一）
+content:			本课程主要讲解一些小型的成员函数适配器的原型及其使用方法。
+	
+classtime:4课时
+							46分钟
+classlevel:中级
+learnnum:2341人学习
+
+title:Python 文件和迭代
+content:			本课程主要讲解 Python 对文件的读、写方法，以及迭代的概念和迭代器的使用方法，从而进一步理解迭代的特点。最后综合应用所学内容，进行综合练习。
+	
+classtime:3课时
+							44分钟
+classlevel:初级
+learnnum:2588人学习
+
+title:jQuery 制作无缝轮播的焦点图
+content:			本课程主要学习 JavaScript 的焦点图的实例，会用到定时器 setInterval，并且可以使用到 jQuery 的 mouseover 鼠标事件及 click 点击事件，通过 animate 动画方法，制作一个可自动和手动控制的无缝轮播焦点图。
+	
+classtime:5课时
+							71分钟
+classlevel:中级
+learnnum:3939人学习
+
+title:Arduino 模拟鼠标键盘（一）
+content:			本课程首先讲解利用 Arduino 来模拟鼠标键盘基本原理，然后通过对三个具体实例的讲解帮助学员掌握如何利用 Arduino 来模拟鼠标键盘操作，并在这一过程中讲解怎样用 Sublime text 来替代Arduino IDE。
+	
+classtime:3课时
+							89分钟
+classlevel:中级
+learnnum:2335人学习
+
+title:Swift 图书展示项目开发实战(四)
+content:			本课程中我们学习了用户相关功能，如授权登录、发表评论和收藏图书，重点学习利用静态单元格设计复杂的界面。
+	
+classtime:3课时
+							42分钟
+classlevel:高级
+learnnum:2616人学习
+
+title:Hadoop Federation
+content:			本课程讲解的是 Hadoop Federation 产生的背景、架构及其原理，着重讲解使用 Hadoop Federation 解决单集群 Namenode 的问题。
+	
+classtime:3课时
+							53分钟
+classlevel:高级
+learnnum:2278人学习
+
+title:基本排序算法（二）
+content:			本课程介绍堆排序算法、归并排序算法和原地归并算法这三种排序算法。
+	
+classtime:3课时
+							37分钟
+classlevel:初级
+learnnum:2257人学习
+
+title:Laravel 开发环境搭建
+content:			本课程主要讲解几种 Laravel 开发环境的搭建过程，让大家能够根据自己的水平和需要进行开发环境的搭建。
+	
+classtime:4课时
+							57分钟
+classlevel:中级
+learnnum:3042人学习
+
+title:Layer、Level 和 Transition 类型精讲
+content:			本课程先讲述 LayerDrawable 的使用，然后讲述 LevelListDrawable 的使用，最后讲述TransitionDrawable 的使用，并进行课程总结。
+	
+classtime:3课时
+							34分钟
+classlevel:初级
+learnnum:2897人学习
+
+title:CSS3 实现陀螺旋转和灯光文字阴影动画特效
+content:			本课程讲解，使用 CSS3，完成陀螺旋转和灯光文字阴影动画特效，能够熟练运用 CSS3 中，有关 3D 空间的相关属性，配合 HTML 元素搭建立体的模型结构，并能理解和掌握 CSS3 中 text-shadow 和 transform 相关属性，在项目中的运用。
+	
+classtime:3课时
+							73分钟
+classlevel:中级
+learnnum:3308人学习
+
+title:Hadoop 高可用集群
+content:			本课程主要讲解 Hadoop 基于 QJM 方式的高可用集群，着重讲解其原理，并且跟随官方文档搭建一个高可用集群
+	
+classtime:4课时
+							64分钟
+classlevel:高级
+learnnum:2318人学习
+
+title:内存泄漏分析
+content:			本课程着重介绍 Node.js 开发过程中所遇的内存泄漏问题，并详细分析如何利用工具来检查内存泄漏。学习完本课程后，了解 Node.js 常见的内存泄漏问题，以及如何应用工具进行内存分析，并找出异常的代码部分。
+	
+classtime:3课时
+							25分钟
+classlevel:中级
+learnnum:2340人学习
+
+title:链表的基本操作
+content:			本课程介绍的所有操作都是基于链表这种数据结构的，讲解和链表相关的基本操作，比如链表的构造、特殊节点的查找和删除、判断单链表是否有环以及在有环的单链表中查找入环的第一个节点。
+	
+classtime:3课时
+							35分钟
+classlevel:中级
+learnnum:2440人学习
+
+title:FileMaker 14 高级教学（八）安全性
+content:			通过学习本章，我们将了解怎样创建权限。并且用脚本和安全性设置来控制对于数据库记录的查看、删减、添加。
+	
+classtime:5课时
+							44分钟
+classlevel:初级
+learnnum:2386人学习
+
+title:Blender 概述
+content:			本课程介绍 Blender 的发展简史、开源电影项目、以及在各个操作系统平台下的下载与安装方法。让用户对 Blender 有基本的了解，为以后的课程学习打下基础。
+	
+classtime:3课时
+							28分钟
+classlevel:初级
+learnnum:2500人学习
+
+title:算术仿函数和其他类型的仿函数
+content:			本课程主要讲解加减乘除、求余、求反等仿函数的定义及其使用方法
+	
+classtime:4课时
+							46分钟
+classlevel:中级
+learnnum:2149人学习
+
+title:Windows 10 应用开发之数据绑定（上）
+content:			在应用程序开发过程，应用程序界面与逻辑数据的交互是必不可少的，而且也是很常用的。本课程将从列表控件（如 ListView、ListBox 等）说起，然后过渡到数据绑定相关的知识。本课程会向学员讲述以下重要的技术点： 列表控件基础、Binding 对象的使用、数据转换器的实现。
+	
+classtime:4课时
+							36分钟
+classlevel:初级
+learnnum:2389人学习
+
+title:Python 基础运维
+content:			本课程学习如果通过 Python 编程语言进行基础运维工作。
+	
+classtime:4课时
+							51分钟
+classlevel:中级
+learnnum:2491人学习
+
+title:查找算法
+content:			本课程着重介绍二分查找的实现和应用，分析二分查找的实现原理，通过经典实例展示了二分查找的多样化应用。
+	
+classtime:4课时
+							39分钟
+classlevel:中级
+learnnum:2388人学习
+
+title:Python 图形程序入门
+content:			本课程讲解使用 Python 搭配 wxPython 编写图形化界面的程序。学习了本课程以后，你可以使用Python 编写一个简单的包含多个不同控件的程序，并能实现简单的交互功能。
+	
+classtime:4课时
+							55分钟
+classlevel:初级
+learnnum:4086人学习
+
+title:FileMaker 14 高级教学（七）制作报表
+content:			本章节，我们将了解怎样新建不同的报表。怎样通过生成不同的图表来展示数据。学习制作交叉表的报表以及用值列表来制作sql语句执行之后的报表。
+	
+classtime:4课时
+							58分钟
+classlevel:初级
+learnnum:2241人学习
+
+title:DB2中的数据类型、表与约束
+content:			本课程的第一课时将介绍 DB2 中的基本的数据类型，包括数字型、字符串型等，以其不同数据类型的使用场景和要求；第二课时将介绍如何针对 DB2 中的表进行管理操作，第三课时介绍 DB2 中约束的使用。
+	
+classtime:3课时
+							52分钟
+classlevel:中级
+learnnum:2139人学习
+
+title:极客 iPhone 登录界面设计实例
+content:			本课程主要演示极客学院 iPhone 端登录界面设计实例，帮助学员回顾前面学习的 Photoshop 入门课程知识点，进一步熟悉 Photoshop 操作。了解界面的布局设计、低保真图设计、视觉效果设计等。掌握界面标准颜色方案设计方法。
+	
+classtime:3课时
+							48分钟
+classlevel:初级
+learnnum:3164人学习
+
+title:Android Studio全方位指南之基本操作指南
+content:			本课程主要介绍Android Studio的一些基本操作。包括新建项目，导入导出不同类型项目，基本的调试技巧等
+	
+classtime:6课时
+							46分钟
+classlevel:初级
+learnnum:6562人学习
+
+title:Python 语句
+content:			本课程主要介绍 Python 中的语句相关知识，包括常用的 if...else，for，while 等，也包括常用的运算符知识学习。
+	
+classtime:3课时
+							47分钟
+classlevel:初级
+learnnum:2803人学习
+
+title:Hadoop 集群与管理
+content:			本课程主要讲解 Hadoop 集群的安装，对集群节点卸载与添加进行演示，并讲解 Hadoop 各大版本之间的升级原理，演示如何进行集群升级。
+	
+classtime:3课时
+							56分钟
+classlevel:高级
+learnnum:2444人学习
+
+title:数据库抽象层 PDO
+content:			本课程讲解数据库抽象层 PDO 的安装、连接属性、预处理及事务处理等项目开发中的常用技术。
+	
+classtime:5课时
+							86分钟
+classlevel:中级
+learnnum:2383人学习
+
+title:基本排序算法（一）
+content:			本课程重点介绍几种基本的排序算法，具体包括冒泡排序、插入排序、快速排序。
+	
+classtime:3课时
+							34分钟
+classlevel:初级
+learnnum:2922人学习
+
+title:米特吧大数据技术沙龙第二期
+content:			本课程主要是对米特吧大数据技术沙龙第二期的实时记录，主要是吧内成员对现如今大数据的一些热点技术做了相应的深入研究探讨。
+	
+classtime:4课时
+							177分钟
+classlevel:中级
+learnnum:2633人学习
+
+title:逻辑仿函数
+content:			本课程主要讲解逻辑与、逻辑或、逻辑非等几种逻辑仿函数的使用方法。
+	
+classtime:4课时
+							35分钟
+classlevel:中级
+learnnum:2219人学习
+
+title:Lucene 实时搜索
+content:			本课程将介绍如何基于 Lucene 来创建搜索程序，并实现索引的实时更新操作，完成索引的实时更新、切换。
+	
+classtime:4课时
+							45分钟
+classlevel:高级
+learnnum:2559人学习
+
+title:Photoshop 如何选择颜色
+content:			本课程主讲 Photoshop 入门必学的 HSB 颜色原理以及如何利用 HSB 原理快速选择颜色。
+	
+classtime:3课时
+							20分钟
+classlevel:初级
+learnnum:2915人学习
+
+title:物联网技术导论（八）数据库管理系统
+content:			管理服务层中数据库管理系统主要解决数据存储问题，是管理服务层的基础。本课程将讲述管理服务层的数据库管理系统，并重点介绍关系数据库的相关概念以及物联网对数据库的新需求。
+	
+classtime:3课时
+							46分钟
+classlevel:初级
+learnnum:2141人学习
+
+title:配置 HBase 的监控工具 ganglia
+content:			本课程主要介绍如何配置 HBase 的监控工具 ganglia。
+	
+classtime:4课时
+							30分钟
+classlevel:中级
+learnnum:2169人学习
+
+title:辅助用仿函数
+content:			本课程主要在仿函数的基础知识上讲解函数配接器及几种关系仿函数的知识点及其使用方法。
+	
+classtime:3课时
+							48分钟
+classlevel:中级
+learnnum:2065人学习
+
+title:iOS 实现 IAP 和 Apple Pay
+content:			本课程主要介绍 IAP 开发前的准备工作，包括如何添加 APP 内购买项目、如何添加沙箱测试用户、如何在沙箱环境进行测试等，同时对 IAP 开发的详细步骤进行讲解，对 Apple Pay 的开发步骤进行详解。
+	
+classtime:3课时
+							27分钟
+classlevel:初级
+learnnum:2829人学习
+
+title:Hadoop 配置完善
+content:			1.Hadoop 日志分析
+2.HDFS 存储目录
+3.Hadoop 进程主机
+4.Hadoop 用户与权限
+	
+classtime:4课时
+							58分钟
+classlevel:中级
+learnnum:2353人学习
+
+title:名企数据结构面试题之二分查找
+content:			本课程学习二分查找，讲解二分插入、杨氏矩阵、函数的极大值等等问题，并总结解题规律，让大家掌握二分查找相关面试题的常用解法。
+	
+classtime:7课时
+							76分钟
+classlevel:中级
+learnnum:2310人学习
+
+title:Android Studio 全方位指南之初识 Android Studio
+content:			本课程主要讲解 Android Studio 的由来，以及为什么要转移到 Android Studio 进行开发的理由。通过在线，离线配置等方式介绍 Android Studio 的安装配置。并讲解 Android Studio 的整体界面及文件结构
+	
+classtime:5课时
+							66分钟
+classlevel:初级
+learnnum:8211人学习
+
+title:HBase 节点的管理
+content:			本课程将介绍如何管理 HBase 中的节点。包括 HMaster 和 RegionServer 节点的重启、删除、添加等操作。
+	
+classtime:3课时
+							31分钟
+classlevel:中级
+learnnum:2129人学习
+
+title:Python 集合
+content:			本课程主要介绍 Python 中的集合，包括集合的基本概念、集合的常用方法以及集合运算等内容。
+	
+classtime:3课时
+							22分钟
+classlevel:初级
+learnnum:2547人学习
+
+title:Apple TV 应用程序开发之 SpriteKit 游戏开发高阶
+content:			本课程讲解利用 SpriteKit 开发框架在 tvOS 平台上开发游戏的高阶知识，包括滑板人物与垃圾桶障碍物在发生碰撞以后的处理，设置具有视觉差效果的背景，构建随机的建筑物和设置游戏中的音频。
+	
+classtime:5课时
+							64分钟
+classlevel:中级
+learnnum:2132人学习
+
+title:Photoshop 玩转图标实例
+content:			本课程主要通过图标设计实例，学习布尔运算原理/原则、形状工具、路径选择工具的运用以及图标设计技巧。
+	
+classtime:3课时
+							52分钟
+classlevel:初级
+learnnum:2527人学习
+
+title:Photoshop 入门工具打包学
+content:			本课程主要通过界面设计实例，学习 Photoshop 系列入门工具的运用，包括图层管理与选取、图层对齐功能、文本运用与编辑、智能对象属性、自由变换以及剪贴蒙版运用，帮助学员进一步掌握 Photoshop 的实操。
+
+	
+classtime:4课时
+							40分钟
+classlevel:初级
+learnnum:2829人学习
+
+title:数据库中的关系
+content:			本课程主要介绍数据库中的关系，讲解 Web 开发中数据库模型的设计和操作，学习如何建立一对一、一对多、多对多的关系表。并使用 SQL 语句和 SQL-Alchemy 对关系进行操作。
+	
+classtime:3课时
+							29分钟
+classlevel:中级
+learnnum:2328人学习
+
+title:Swift 图书展示项目开发实战(三)
+content:			本课程主要讲解使用 mask 属性实现评分控件、开发图书详情页和 UICollectionView 基本知识并使用它实现图片浏览器。
+
+	
+classtime:3课时
+							127分钟
+classlevel:中级
+learnnum:2542人学习
+
+title:仿函数概述
+content:			本课程主要讲解仿函数的基础知识及其几种简单的函数对象的使用方法。
+	
+classtime:6课时
+							56分钟
+classlevel:中级
+learnnum:2137人学习
+
+title:Photoshop 布局设计
+content:			本课程通过实例，演示如何运用 Photoshop 入门工具完成标准的布局设计，帮助学员进一步熟悉 Photoshop 入门工具运用，了解手机界面的横向 TAB 布局、竖排列表布局。
+
+	
+classtime:3课时
+							20分钟
+classlevel:初级
+learnnum:2462人学习
+
+title:iOS 如何接入第三方支付（下）
+content:			本课程主要对银联支付 SDK 和 Web 支付进行详细讲解，并对银联 SDK 具体的接入流程进行讲解。
+	
+classtime:3课时
+							33分钟
+classlevel:初级
+learnnum:2530人学习
+
+title:Photon Mmo中服务端基本类型（下）
+content:			本课程主要介绍 Photon Mmo框架里的服务端基本类型，通过这些类的讲解和分析，完成对 Photon Mmo 框架中服务端项目 Photon.SocketS erver.Mmo项目的基本了解。
+	
+classtime:3课时
+							85分钟
+classlevel:中级
+learnnum:2158人学习
+
+title:NFC P2P 模式开发和实例（下）
+content:			本课程中主要介绍 NFC P2P 模式开发进阶实战，基于Android NFC实现一个文件传输实例编码讲解，包括 基于Android NFC  的文件传输方法和 基于Android NFC  的文件传输实例。
+	
+classtime:3课时
+							32分钟
+classlevel:中级
+learnnum:2153人学习
+
+title:SpringMVC 与底层数据库的交互
+content:			本课程是 SpringMVC 入门实战教程系列课程中的第六课，主要讲解 SpringMVC 与底层数据库交互的实现，其中包括SpringMVC与Mybatis等底层框架整合教程。
+	
+classtime:3课时
+							50分钟
+classlevel:中级
+learnnum:2926人学习
+
+title:iOS 设计模式——责任链
+content:			本课程主要讲解 iOS 设计模式中的责任链模式，通过一个实例来说明如何使用责任链，并在最后对责任链模式的衍生使用进行总结。
+	
+classtime:4课时
+							41分钟
+classlevel:高级
+learnnum:2439人学习
+
+title:数组的处理
+content:			本课程讲述和数组相关的算法，包括数组中的查找，特殊排序等多个问题。
+	
+classtime:4课时
+							50分钟
+classlevel:初级
+learnnum:2454人学习
+
+title:异常类及几个重要问题
+content:			本课程主要讲解标准模板库提供的异常类 exception 及其成员的使用方法。
+	
+classtime:5课时
+							59分钟
+classlevel:中级
+learnnum:2269人学习
+
+title:FileMaker 14 高级教学（六）逻辑解决方案：脚本篇（下）
+content:			本章节将延续上一章的内容，介绍脚本的其它应用实例，包括怎样使用脚本查找数据、进行对象的导航操作以及进行窗口管理，怎样运用循环函数完成迭代任务等相关知识。
+	
+classtime:5课时
+							58分钟
+classlevel:初级
+learnnum:2183人学习
+
+title:从Docker到CaaS（六）微服务与CaaS
+content:			本课程针对使用 Docker 容器部署产品的应用开发者，通过本课程的学习使开发者了解微服务的理念，并能在 CaaS 平台部署微服务。
+	
+classtime:2课时
+							29分钟
+classlevel:中级
+learnnum:2412人学习
+
+title:Python 元组和字典
+content:			本课程主要介绍 Python 元组和字典的定义、基本操作以及相关操作方法，主要包括：定义、基本操作、常用方法。
+	
+classtime:3课时
+							35分钟
+classlevel:初级
+learnnum:2578人学习
+
+title:Photoshop 大前端入门必学
+content:			本课程主讲 Photoshop 入门必学的视图设置、参考线用法、图层运用、选框以及不同的颜色填充方法。
+	
+classtime:3课时
+							26分钟
+classlevel:初级
+learnnum:3273人学习
+
+title:Phaser.js 中音频资源的处理
+content:			本课程主要讲解如何在 Phaser.js 中加载、管理和使用音频资源
+	
+classtime:3课时
+							29分钟
+classlevel:初级
+learnnum:2203人学习
+
+title:数据结构之字符串、散列和布隆过滤器
+content:			本课程介绍三种常用数据结构：字符串、散列和布隆过滤器。针对字符串会介绍几个经典的应用，散列部分会介绍散列的原理、实现方式和应用，布隆过滤器会介绍原理和应用场景。
+	
+classtime:3课时
+							93分钟
+classlevel:初级
+learnnum:2203人学习
+
+title:Photoshop——图像调整11
+content:			本课程为图像调整部分的第11课，主要讲解匹配颜色、替换颜色以及通道混合器的效果、原理，帮助学员初步了解该部分工具的运用。
+	
+classtime:3课时
+							56分钟
+classlevel:中级
+learnnum:2864人学习
+
+title:渲染状态和纹理
+content:			本课程讲解 OSG 中的另一个树--渲染树，渲染树是一棵以 StateSet 和 RenderLeaf 为节点的树，它可以做到 StateSet 相同的 RenderLeaf 同时渲染从而不用切换 Opengl 状态，并且做到尽量少但在多个不同 State 间切换。同时我们详细介绍纹理、光照及材质，都是关于渲染状态的控制。
+	
+classtime:3课时
+							28分钟
+classlevel:初级
+learnnum:2241人学习
+
+title:使用第三方 SDK 实现 LBS 相关功能
+content:			以百度地图 LBS API 为引导，开发出基于百度地图的 LBS 程序，介绍高德地图的实现方法，使学员学习以后懂得如何在开发过程中，借助开放平台功能，满足自己项目需求中更为强大的功能模块。（课程以百度开放平台为例，介绍开发过程，并对高德开发平台做基本说明）
+	
+classtime:5课时
+							88分钟
+classlevel:初级
+learnnum:2527人学习
+
+title:从 Docker 到 CaaS（五）灵雀云部署 Docker 容器
+content:			本课程针对使用 Docker 容器部署产品的应用开发者，通过本课程的学习使开发者了解灵雀云的工作原理以及部署方式，能在灵雀云平台部署应用。
+	
+classtime:3课时
+							40分钟
+classlevel:中级
+learnnum:2260人学习
+
+title:Android am 命令使用
+content:			本课详细介绍什么是 am 命令和 am 命令的使用。am 命令为使用 activity manager 的缩写，可以完成一些系统操作，如开启一个 actions 、开启一个 activity、强制停止一个线程、发送要给广播、修改设备屏幕属性等等。
+	
+classtime:4课时
+							57分钟
+classlevel:初级
+learnnum:2304人学习
+
+title:Struts2 数据校验
+content:			本课讲解了两种 Struts2 数据校验框架的使用方式，从而使我们的项目数据更加安全。又引入了正则表达式的知识，用于验证复杂的字符串问题。
+	
+classtime:3课时
+							59分钟
+classlevel:高级
+learnnum:2280人学习
+
+title:Color 相关 Drawable 类型精讲
+content:			本课程先讲述 ColorDrawable 的使用和 ColorFilter 功能，然后讲述 Color 相关的GradientDrawable 类型和一些 Color 相关的知识，最后对课程内容进行总结。
+	
+classtime:3课时
+							40分钟
+classlevel:初级
+learnnum:2828人学习
+
+title:使用 jQuery 实现多种类型的导航条（上）
+content:			本课程主要通过 jQuery 和 CSS3 进行实际应用，实现在网站中常见的多种类型的导航条，学习完这个课程可以轻松的应用 jQuery 和 CSS3 的各种交互特效，以及 jQuery 的动画插件jquery.easing.1.3 的使用。
+	
+classtime:4课时
+							104分钟
+classlevel:中级
+learnnum:3554人学习
+
+title:Cocos2d-x 引擎源码中的 OpenGL ES 知识（上）
+content:			本课程为 OpenGL ES 课程的上半部分，将先介绍 OpenGL ES 的整个流程，然后从 OpenGL ES API 的角度，讲述如何使用 OpenGL ES ，在手机上获取绘制 buffer ，并设计 GPU 可编程模块。
+	
+classtime:3课时
+							82分钟
+classlevel:高级
+learnnum:2337人学习
+
+title:Hadoop 入门
+content:			1.大数据相关概念
+2.Hadoop 架构
+3.Hadoop 编译安装
+4.Hadoop 词频统计
+	
+classtime:3课时
+							61分钟
+classlevel:初级
+learnnum:4212人学习
+
+title:Apple TV 应用程序开发之 SpriteKit 游戏开发进阶
+content:			本课程讲解利用 SpriteKit 开发框架在 tvOS 平台上开发游戏的进阶知识，包括滑板人物的物理动作实现，如何实现碰撞的处理。
+	
+classtime:3课时
+							62分钟
+classlevel:中级
+learnnum:2193人学习
+
+title:Xffect 粒子系统 - 场景粒子制作
+content:			场景粒子是增强游戏氛围的重要工具，静态的场景结构加上动态的粒子效果，整个场景就会变得鲜活。场景粒子需要模拟现实场景中的对象，因此需要对事物比较强的观察能力和抽象能力。
+	
+classtime:4课时
+							37分钟
+classlevel:中级
+learnnum:2284人学习
+
